@@ -12,6 +12,7 @@ ALLOWED_HOSTS = [
     'localhost',
     '127.0.0.1',
     '158.160.197.90',
+    '51.250.83.56',
     'irrigade.servehttp.com',
     'backend',
 ]
