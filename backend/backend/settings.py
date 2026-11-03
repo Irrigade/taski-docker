@@ -14,6 +14,7 @@ ALLOWED_HOSTS = [
     '158.160.197.90',
     '51.250.83.56',
     'irrigade.servehttp.com',
+    'kitty-irrigade.servehttp.com',
     'backend',
 ]
 
@@ -21,6 +22,7 @@ CSRF_TRUSTED_ORIGINS = [
     'http://localhost',
     'http://127.0.0.1',
     'https://irrigade.servehttp.com',
+    'http://kitty-irrigade.servehttp.com'
 ]
 
 # Application definition
