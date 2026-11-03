@@ -22,7 +22,7 @@ CSRF_TRUSTED_ORIGINS = [
     'http://localhost',
     'http://127.0.0.1',
     'https://irrigade.servehttp.com',
-    'http://kitty-irrigade.servehttp.com'
+    'https://kitty-irrigade.servehttp.com',
 ]
 
 # Application definition
